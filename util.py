@@ -75,6 +75,7 @@ class MyPriorityQueue(MyData):
     def __repr__(self):
         return 'MyPriorityQueue()'
 
+# some comments!
 
 class MyCounter(dict):
 

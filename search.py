@@ -80,6 +80,8 @@ if __name__ == '__main__':
     # print("Maximum Solution Length: ", sol_len_max)
     # print(longest_problem)
 
+
+    # Fighting
     problem = game.NumberPuzzle(3)
     problem.printState()
     sol = AstarSearch(problem)
